@@ -4,7 +4,7 @@ Este projeto demonstra o processo prático de análise, normalização de dados 
 
 ## O Desafio
 A planilha original continha alta redundância de dados e dependências multivaloradas. O objetivo foi identificar os atributos multivalorados ou grupos repetitivos e aplicar os conceitos de normalização, criando os relacionamentos corretos.
-* ** Tabela Original:**
+* **Tabela Original:**
 ![Tabela Original](./imagens/tabela-original.png)
 
 ---

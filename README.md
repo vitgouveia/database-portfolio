@@ -8,7 +8,7 @@ Repositório dedicado aos meus estudos e mini-projetos práticos de **Modelagem 
 
 | Projeto | Cenário / Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[Locadora de Veículos](./exercicio-locadora-veiculos)** | Normalização de dados de aluguer, gestão de clientes, veículos, categorias e opcionais (Relação N:M). | SQL (DDL), Modelagem Relacional |
+| **[Locadora de Veículos](./Locadora%20de%20Veículos/)** | Normalização de dados de aluguer, gestão de clientes, veículos, categorias e opcionais (Relação N:M). | SQL (DDL), Modelagem Relacional |
 
 ---
 *Desenvolvido com foco em boas práticas de arquitetura de bases de dados.*
